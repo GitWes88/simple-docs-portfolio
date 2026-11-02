@@ -1,0 +1,9 @@
+globs:
+  - "docs/**/*.md"
+  - "README.md"
+config:
+  default: true
+  # One sentence per line keeps diffs readable, so line length isn't enforced.
+  MD013: false
+  # Every code block needs a language so syntax highlighting works.
+  MD040: true
