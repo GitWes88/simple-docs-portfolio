@@ -1,6 +1,6 @@
 # Docs-as-code portfolio (simple)
 
-**Live site:** <https://YOUR-USERNAME.github.io/simple-docs-portfolio/>
+**Live site:** <https://GitWes88.github.io/simple-docs-portfolio/>
 
 This project documents a fictional command-line tool called **Tidy**. The tool is invented, but the workflow is real: the docs are Markdown in Git, checked automatically, and published to GitHub Pages every time a change is merged.
 
